@@ -8,6 +8,10 @@ TagManager:
   - HandLeft
   - HandRight
   - Hand
+  - teleportDestination
+  - Chest
+  - Sword
+  - Ball
   layers:
   - Default
   - TransparentFX
