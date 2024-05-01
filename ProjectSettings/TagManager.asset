@@ -12,6 +12,7 @@ TagManager:
   - Chest
   - Sword
   - Ball
+  - Key
   layers:
   - Default
   - TransparentFX
