@@ -5,7 +5,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class ButtonController : MonoBehaviour
 {
-    public GameObject buttonVisual; // Reference to the visual representation of the button
+    public GameObject buttonVisual; // WRITTEN WITH THE USE OF CHATGPT!
     public GameObject door; // Reference to the door GameObject
     public float buttonPressX = 0.0f; // Amount the button is pressed along the X-axis
     public float buttonPressY = 0.0f; // Amount the button is pressed along the Y-axis

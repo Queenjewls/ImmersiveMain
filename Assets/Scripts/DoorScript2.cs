@@ -11,7 +11,7 @@ public class DoorScript2 : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        // Check if the colliding object is the key
+        // WRITTEN WITH THE USE OF CHATGPT!
         if (collision.gameObject.CompareTag("Key"))
         {
             StartCoroutine(OpenDoor());

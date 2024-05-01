@@ -14,7 +14,7 @@ public class DoorScript : MonoBehaviour
         closedPosition = transform.position;  // Store the starting position
     }
 
-    // Update is called once per frame
+    // WRITTEN WITH THE USE OF CHATGPT!
     void Update()
     {
         if (isOpen)

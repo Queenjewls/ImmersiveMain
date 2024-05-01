@@ -5,7 +5,7 @@ using UnityEngine;
 public class Throwable : MonoBehaviour
 
 {
-    // Reference to the door GameObject
+    // WRITTEN WITH THE USE OF CHATGPT!
     public GameObject door;
 
     // Number of targets to hit

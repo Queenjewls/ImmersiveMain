@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlaySoundOnTouch : MonoBehaviour
 {
-    private AudioSource audioSource;
+    private AudioSource audioSource; // WRITTEN WITH THE USE OF CHATGPT!
 
     void Start()
     {

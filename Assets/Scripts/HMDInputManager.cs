@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HMDInputManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // WRITTEN WITH THE USE OF CHATGPT!
     void Start()
     {
         

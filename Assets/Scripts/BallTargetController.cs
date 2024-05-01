@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BallTargetController : MonoBehaviour
 {
-    // Reference to the door GameObject
+    // WRITTEN WITH THE USE OF CHATGPT!
     public GameObject door;
 
     // End position for the door when it's fully opened

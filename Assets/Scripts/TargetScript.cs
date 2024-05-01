@@ -8,7 +8,7 @@ public class TargetScript : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        // Check if the collider is tagged as "Ball"
+        // WRITTEN WITH THE USE OF CHATGPT!
         if (collision.gameObject.CompareTag("Ball"))
         {
             doorScript.OpenDoor();
